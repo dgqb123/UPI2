@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pui>
+  
+  <widget id="1">
+    <type>QPushButton</type>
+    <text>pushButton1</text>
+    <width>100</width>
+    <height>100</height>
+    <x>50</x>
+    <y>40</y>
+  </widget>
+
+  <widget id="2">
+    <type>QPushButton</type>
+    <text>pushButton2</text>
+    <width>200</width>
+    <height>200</height>
+    <x>150</x>
+    <y>150</y>
+  </widget>
+
+  <widget id="3">
+    <type>QLable</type>
+    <text>lable1</text>
+    <width>100</width>
+    <height>100</height>
+    <x>100</x>
+    <y>100</y>
+  </widget>
+  
+</pui>
