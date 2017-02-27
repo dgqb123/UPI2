@@ -1,0 +1,11 @@
+{
+  "name": "button", "frames": 
+    {
+        "pushButton4": { "type": "QPushButton", "x": "100", "y": "10",  "w": "30", "h": "30" },
+        "label5":      { "type": "QLabel",      "x": "50",  "y": "50",  "w": "40", "h": "30 "},
+        "pushButton6": { "type": "QPushButton", "x": "10",  "y": "10", "w": "40", "h": "30" },
+        "checkBox":    { "type": "QCheckBox",   "x": "150", "y": "150", "w": "30", "h": "30" },
+        "lineEdit":    { "type": "QLineEdit",   "x": "200", "y": "200", "w": "40", "h": "30 "},
+        "radioButton": { "type": "QRadioButton","x": "250", "y": "250", "w": "40", "h": "30" }                    
+    }
+}

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/PUI1">
+        <file>app.xml</file>
+        <file>app.json</file>
+    </qresource>
+</RCC>
